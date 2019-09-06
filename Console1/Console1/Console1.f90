@@ -20,6 +20,6 @@
 
     ! Body of Console1
     print *, 'Hello World'
-
+print *. 'tisihihoh'
     end program Console1
 
